@@ -1,5 +1,5 @@
 {
-    "name": "gulp-rev-all",
+    "name": "gulp-rev-all-fixed",
     "version": "0.8.24",
     "description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn.098f6bcd.css, also re-writes references in each file to new reved name.",
     "main": "index.js",
